@@ -2,6 +2,8 @@
 
 Para más informacion click [aqui](http://wiringpi.com)
 
+Para ver un pequeño tutorial [aqui](https://www.electronicwings.com/raspberry-pi/raspberry-pi-gpio-access)
+
 Para Instalar
 ```Bash 
 	sudo apt-get install wiringpi
